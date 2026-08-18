@@ -14,4 +14,6 @@ Options:
         Make the program describe everything it does
     -w, --wait-before-exit
         Require an ENTER press before exiting the program
+    -e, --exit-instead-of-except
+        If an error is encountered, exit instead of raising an exception
 ```
