@@ -17,3 +17,4 @@ Options:
     -e, --exit-instead-of-except
         If an error is encountered, exit instead of raising an exception
 ```
+_[How version numbering works in all my programs.](https://github.com/lunanerdderg/lunanerdderg.github.io/blob/main/version-numbering.md)_
