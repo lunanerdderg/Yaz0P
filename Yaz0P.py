@@ -163,3 +163,6 @@ def main():
     decode(inputPath,outputPath,verbose,waitBeforeExit,windows,help,exitInsteadOfExcept)
 
     exit("", waitBeforeExit, True)
+
+if __name__ == "__main__":
+    main()
