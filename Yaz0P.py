@@ -117,7 +117,7 @@ def decode(inputPath,outputPath,verbose=False,waitBeforeExit=False,windows=False
 
     print("\nSuccess! File generated at: '" + outputPath + "'")
 
-def main():
+def _main():
     print("\n\n\n")
 
     inputPath = "" # Yaz0 compressed file (usually .szs)
@@ -165,4 +165,4 @@ def main():
     exit("", waitBeforeExit, True)
 
 if __name__ == "__main__":
-    main()
+    _main()
